@@ -1,2 +1,2 @@
-# Terraform-Guacd
-Terraform provider para Guacamole
+# terraform-provider-guacamole
+Terraform provider for apache gaucamole
