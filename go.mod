@@ -1,4 +1,4 @@
-module github.com/desotech-it/terraform-provider-guacamole
+module github.com/Projeto-Automation/terraform-provider-guacamole
 
 go 1.15
 
