@@ -7,7 +7,7 @@ import (
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
-	"github.com/desotech-it/terraform-provider-guacamole/guacamole"
+	"github.com/Projeto-Automation/terraform-provider-guacamole/guacamole"
 )
 
 func main() {
